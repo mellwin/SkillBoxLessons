@@ -1,0 +1,49 @@
+﻿<Window x:Class="Example1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Example1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="800">
+    <Grid>
+        <TextBox x:Name="txbInputText1"  
+                 HorizontalAlignment="Left" 
+                 Margin="10,10,0,0" 
+                 Text="" 
+                 TextWrapping="Wrap" 
+                 VerticalAlignment="Top" 
+                 Width="555" 
+                 Height="55"/>
+        <TextBox x:Name="txbInputText2" 
+                 HorizontalAlignment="Left" 
+                 Margin="10,80,0,0" 
+                 Text="" 
+                 TextWrapping="Wrap" 
+                 VerticalAlignment="Top" 
+                 Width="555" 
+                 Height="55"/>
+        <Button Content="Разделить" 
+                HorizontalAlignment="Left" 
+                Margin="604,306,0,0" 
+                VerticalAlignment="Top" 
+                Width="75" 
+                Click="btnParse"/>
+        <Button Content="Переставить" 
+                HorizontalAlignment="Left" 
+                Margin="697,306,0,0" 
+                VerticalAlignment="Top" 
+                Width="75" 
+                Click="BtnReverse"/>
+        <ListBox x:Name="lbWords"  
+                 Margin="599,10,23,98"/>
+        <Label x:Name="lblOutputReverseText" 
+               Content="" 
+               HorizontalAlignment="Left" 
+               Margin="10,150,0,0" 
+               VerticalAlignment="Top" 
+               Height="161" 
+               Width="555"/>
+
+    </Grid>
+</Window>
