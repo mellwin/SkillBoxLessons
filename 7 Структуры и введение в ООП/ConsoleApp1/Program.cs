@@ -1,138 +1,104 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using ConsoleApp1;
 
-namespace ConsoleApp1
+private const string DataFilePath = "..\\DATA.txt";
+private static void CheckAndCreateDataFile()
 {
-    class Program
+    if (!File.Exists(DataFilePath))
+        File.Create(DataFilePath);
+}
+    //создание файла если он отсутствует.
+    CheckAndCreateDataFile();
+
+    Repository repo = new Repository();
+
+    Console.WriteLine("Введите 1 чтобы показать содержимое файла" +
+                    "\nВведите 2 чтобы записать строку" +
+                    "\nВведите 3 чтобы вывести работника по идентификатору" +
+                    "\nВведите 4 чтобы удалить работника по идентификатору" +
+                    "\nВведите 5 чтобы показать работников в промежутке времени" +
+                    "\nВведите 0 для выхода");
+
+    int funcFlag = 999;
+
+    while (funcFlag != 0)
     {
-        private const string DataFilePath = "..\\DATA.txt";
-        private static void CheckAndCreateDataFile()
+        string readFlag = Console.ReadLine();
+
+        funcFlag = int.Parse(readFlag == "" ? "0" : readFlag);
+
+        if (funcFlag == 1)
         {
-            if (!File.Exists(DataFilePath))
-                File.Create(DataFilePath);
-
+            Worker[] workers = repo.GetAllWorkers();
+            OutputDisplay(workers);
         }
 
-        public static string[] GetParseText(string _text)
-        {//возвращает массив слов из строки
-            char sym = '#';
-            String[] _masText = _text.Split(new char[] { sym });
-
-            return _masText;
-        }
-
-        public static void OutputDisplay()
-        {//вывод строк на экран
-            string[] lines = File.ReadAllLines(DataFilePath);
-
-            foreach (var Line in lines)
-            {
-                string[] text = GetParseText(Line);
-
-                for (int i = 0; i < text.GetLength(0); i++)
-                {
-                    Console.Write(text[i] + " ");
-                }
-                Console.WriteLine();
-            };
-        }
-
-
-        public static void AddRecord()
-        {//Добавление записи в файл
-            string[] lines = File.ReadAllLines(DataFilePath);
-            Worker worker = FillWorker(lines);
-
-            Array.Resize(ref lines, lines.Length + 1);
-
-            string newRecord = $"{worker.Id}#{worker.DateTimeRecord}#{worker.FIO}#{worker.Age}#{worker.High}#{worker.BirthDate}#{worker.BirthPlace}";
-
-            lines[lines.Length - 1] = newRecord;
-
-            File.WriteAllLines(DataFilePath, lines);
-        }
-
-        private static Worker FillWorker(string[] lines)
+        else if (funcFlag == 2)
         {
-            Worker worker = new Worker();
-
-            worker.Id = lines.Length + 1;
-
-            worker.DateTimeRecord = DateTime.Now;
-
-            Console.WriteLine("Введите ФИО");
-            worker.FIO = Console.ReadLine();
-
-            Console.WriteLine("Введите возраст");
-            worker.Age = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine("Введите рост");
-            worker.High = Convert.ToDouble(Console.ReadLine());
-
-            Console.WriteLine("Введите День рождения в формате ДД.ММ.ГГГГ ");
-            worker.BirthDate = DateTime.ParseExact(Console.ReadLine(), "MM.dd.yyyy", CultureInfo.InvariantCulture);
-
-            Console.WriteLine("Введите город проживания");
-            worker.BirthPlace = Console.ReadLine();
-
-
-            return worker;
+            Worker worker = FillNewWorker();
+            repo.AddWorker(worker);
         }
 
-        public static void EditRecord()
+        else if (funcFlag == 3)
         {
-
+            Console.WriteLine("Введите Идентификатор");
+            Worker worker = repo.GetWorkerById(Convert.ToInt32(Console.ReadLine()));
+            Worker[] workers = new Worker[1];
+            workers[0] = worker;
+            OutputDisplay(workers);
         }
 
-        public static Worker GetWorkerById(int Id)
+        else if (funcFlag == 4)
         {
-            return new Worker();
+            Console.WriteLine("Введите Идентификатор");
+            repo.DeleteWorker(Convert.ToInt32(Console.ReadLine()));
         }
 
-        static void Main(string[] args)
+        else if (funcFlag == 5)
         {
-            //создание файла если он отсутствует.
-            CheckAndCreateDataFile();
+            Console.WriteLine("Введите дату начала в формате ДД.ММ.ГГГГ");
+            DateTime dateStart = Convert.ToDateTime(Console.ReadLine());
 
-            Console.WriteLine("Введите 1 чтобы показать содержимое файла" +
-                            "\nВведите 2 чтобы записать строку" +
-                            "\nВведите 3 чтобы изменить строку" +
-                            "\nВведите 0 для выхода");
+            Console.WriteLine("Введите дату окончания в формате ДД.ММ.ГГГГ");
+            DateTime dateEnd = Convert.ToDateTime(Console.ReadLine());
 
-            int funcFlag = 999;
+            Worker[] workers = repo.GetWorkersBetweenTwoDates(dateStart, dateEnd);
+            OutputDisplay(workers);
+        }
 
-            while (funcFlag != 0)
-            {
-                string readFlag = Console.ReadLine();
-
-                funcFlag = int.Parse(readFlag == "" ? "0" : readFlag);
-
-                if (funcFlag == 1)
-                {
-                    OutputDisplay();
-                }
-                else if (funcFlag == 2)
-                {
-                    AddRecord();
-                }
-                else if (funcFlag == 3)
-                {
-                    EditRecord();
-                }
-                else if (funcFlag == 0)
-                {
-                    break;
-                }
-            }
-
-            Console.ReadKey();
-
+        else if (funcFlag == 0)
+        {
+            break;
         }
     }
+
+public static void OutputDisplay(Worker[] workers)
+{
+    foreach (Worker worker in workers)
+    {
+        Console.WriteLine($"{worker.Id,3} {worker.DateTimeRecord,20} {worker.FIO,30} {worker.Age,8} {worker.High,8} {worker.BirthDate,20} {worker.BirthPlace,20}");
+    }
+}
+
+private static Worker FillNewWorker()
+{
+    Worker worker = new Worker();
+
+    worker.DateTimeRecord = DateTime.Now;
+
+    Console.WriteLine("Введите ФИО");
+    worker.FIO = Console.ReadLine();
+
+    Console.WriteLine("Введите рост");
+    worker.High = Convert.ToDouble(Console.ReadLine());
+
+    Console.WriteLine("Введите День рождения в формате ДД.ММ.ГГГГ ");
+    worker.BirthDate = DateTime.ParseExact(Console.ReadLine(), "dd.MM.yyyy", CultureInfo.InvariantCulture);
+
+    Console.WriteLine("Введите город проживания");
+    worker.BirthPlace = Console.ReadLine();
+
+    return worker;
 }
