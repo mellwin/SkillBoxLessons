@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oapar\\OneDrive\\Documents\\GitHub\\SkillBoxLessons\\14 \u0414\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\\SB14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB14.csproj|c:\\users\\oapar\\onedrive\\documents\\github\\skillboxlessons\\14 \u0434\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\\sb14\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB14.csproj|solutionrelative:repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB14.csproj|c:\\users\\oapar\\onedrive\\documents\\github\\skillboxlessons\\14 \u0434\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\\sb14\\sb14.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB14.csproj|solutionrelative:sb14.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB14.csproj|c:\\users\\oapar\\onedrive\\documents\\github\\skillboxlessons\\14 \u0434\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\\sb14\\repositories\\transactionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB14.csproj|solutionrelative:repositories\\transactionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB14.csproj|c:\\users\\oapar\\onedrive\\documents\\github\\skillboxlessons\\14 \u0434\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\\sb14\\repositories\\custumerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB14.csproj|solutionrelative:repositories\\custumerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB14.csproj|c:\\users\\oapar\\onedrive\\documents\\github\\skillboxlessons\\14 \u0434\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\\sb14\\repositories\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB14.csproj|solutionrelative:repositories\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\Documents\\GitHub\\SkillBoxLessons\\14 \u0414\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\\SB14\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\Documents\\GitHub\\SkillBoxLessons\\14 \u0414\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\\SB14\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:57:58.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SB14.csproj",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\Documents\\GitHub\\SkillBoxLessons\\14 \u0414\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\\SB14\\SB14.csproj",
+              "RelativeDocumentMoniker": "SB14.csproj",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\Documents\\GitHub\\SkillBoxLessons\\14 \u0414\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\\SB14\\SB14.csproj",
+              "RelativeToolTip": "SB14.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T18:57:05.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionRepo.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\Documents\\GitHub\\SkillBoxLessons\\14 \u0414\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\\SB14\\Repositories\\TransactionRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\TransactionRepo.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\Documents\\GitHub\\SkillBoxLessons\\14 \u0414\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\\SB14\\Repositories\\TransactionRepo.cs",
+              "RelativeToolTip": "Repositories\\TransactionRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:54:46.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustumerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\Documents\\GitHub\\SkillBoxLessons\\14 \u0414\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\\SB14\\Repositories\\CustumerRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\CustumerRepo.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\Documents\\GitHub\\SkillBoxLessons\\14 \u0414\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\\SB14\\Repositories\\CustumerRepo.cs",
+              "RelativeToolTip": "Repositories\\CustumerRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:54:44.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountRepo.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\Documents\\GitHub\\SkillBoxLessons\\14 \u0414\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\\SB14\\Repositories\\AccountRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountRepo.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\Documents\\GitHub\\SkillBoxLessons\\14 \u0414\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\\SB14\\Repositories\\AccountRepo.cs",
+              "RelativeToolTip": "Repositories\\AccountRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:54:34.599Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
