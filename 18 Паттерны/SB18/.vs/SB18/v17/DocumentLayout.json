@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB18\\SB18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B18CFCE-0379-4DDE-97C2-D4B8A854D7A0}|Presenter\\PresenterAnimals\\PresenterAnimals.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\sb18\\sb18\\presenter\\presenteranimals\\presenterclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B18CFCE-0379-4DDE-97C2-D4B8A854D7A0}|Presenter\\PresenterAnimals\\PresenterAnimals.csproj|solutionrelative:presenter\\presenteranimals\\presenterclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B18CFCE-0379-4DDE-97C2-D4B8A854D7A0}|Presenter\\PresenterAnimals\\PresenterAnimals.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\sb18\\sb18\\presenter\\presenteranimals\\presenteranimals.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B18CFCE-0379-4DDE-97C2-D4B8A854D7A0}|Presenter\\PresenterAnimals\\PresenterAnimals.csproj|solutionrelative:presenter\\presenteranimals\\presenteranimals.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9698B780-4309-40A3-AE12-7AC46D6FC705}|Model\\ModelAnimals\\ModelAnimals.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\sb18\\sb18\\model\\modelanimals\\animalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9698B780-4309-40A3-AE12-7AC46D6FC705}|Model\\ModelAnimals\\ModelAnimals.csproj|solutionrelative:model\\modelanimals\\animalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9698B780-4309-40A3-AE12-7AC46D6FC705}|Model\\ModelAnimals\\ModelAnimals.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\sb18\\sb18\\model\\modelanimals\\animaldbrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9698B780-4309-40A3-AE12-7AC46D6FC705}|Model\\ModelAnimals\\ModelAnimals.csproj|solutionrelative:model\\modelanimals\\animaldbrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01C2B20-DF7D-4773-8500-8BA7A9ACDC0C}|View\\ViewAnimals\\ViewAnimals.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\sb18\\sb18\\view\\viewanimals\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F01C2B20-DF7D-4773-8500-8BA7A9ACDC0C}|View\\ViewAnimals\\ViewAnimals.csproj|solutionrelative:view\\viewanimals\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01C2B20-DF7D-4773-8500-8BA7A9ACDC0C}|View\\ViewAnimals\\ViewAnimals.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\sb18\\sb18\\view\\viewanimals\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F01C2B20-DF7D-4773-8500-8BA7A9ACDC0C}|View\\ViewAnimals\\ViewAnimals.csproj|solutionrelative:view\\viewanimals\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PresenterAnimals",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB18\\SB18\\Presenter\\PresenterAnimals\\PresenterAnimals.csproj",
+              "RelativeDocumentMoniker": "Presenter\\PresenterAnimals\\PresenterAnimals.csproj",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB18\\SB18\\Presenter\\PresenterAnimals\\PresenterAnimals.csproj",
+              "RelativeToolTip": "Presenter\\PresenterAnimals\\PresenterAnimals.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T13:17:18.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB18\\SB18\\View\\ViewAnimals\\App.config",
+              "RelativeDocumentMoniker": "View\\ViewAnimals\\App.config",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB18\\SB18\\View\\ViewAnimals\\App.config",
+              "RelativeToolTip": "View\\ViewAnimals\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-06T13:02:12.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB18\\SB18\\View\\ViewAnimals\\App.xaml",
+              "RelativeDocumentMoniker": "View\\ViewAnimals\\App.xaml",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB18\\SB18\\View\\ViewAnimals\\App.xaml",
+              "RelativeToolTip": "View\\ViewAnimals\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T13:02:07.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnimalContext.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB18\\SB18\\Model\\ModelAnimals\\AnimalContext.cs",
+              "RelativeDocumentMoniker": "Model\\ModelAnimals\\AnimalContext.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB18\\SB18\\Model\\ModelAnimals\\AnimalContext.cs",
+              "RelativeToolTip": "Model\\ModelAnimals\\AnimalContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:14:18.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnimalDBRepo.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB18\\SB18\\Model\\ModelAnimals\\AnimalDBRepo.cs",
+              "RelativeDocumentMoniker": "Model\\ModelAnimals\\AnimalDBRepo.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB18\\SB18\\Model\\ModelAnimals\\AnimalDBRepo.cs",
+              "RelativeToolTip": "Model\\ModelAnimals\\AnimalDBRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:20:46.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PresenterClass.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB18\\SB18\\Presenter\\PresenterAnimals\\PresenterClass.cs",
+              "RelativeDocumentMoniker": "Presenter\\PresenterAnimals\\PresenterClass.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB18\\SB18\\Presenter\\PresenterAnimals\\PresenterClass.cs",
+              "RelativeToolTip": "Presenter\\PresenterAnimals\\PresenterClass.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:21:25.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

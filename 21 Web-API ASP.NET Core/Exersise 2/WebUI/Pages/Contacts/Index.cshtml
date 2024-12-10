@@ -1,0 +1,39 @@
+﻿@page
+@using Models
+@model List<PhoneContact>
+@{
+    ViewData["Title"] = "PhoneContacts";
+}
+
+<h1>PhoneContacts</h1>
+
+<a asp-page="./Create" class="btn btn-primary">Добавить новую запись</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <a asp-page="./Details" asp-route-id="@item.Id">@item.Id</a>
+                </td>
+                <td>
+                    @item.Name
+                </td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.Id" class="btn btn-warning">Edit</a>
+                    <form asp-page-handler="Delete" asp-route-id="@item.Id" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

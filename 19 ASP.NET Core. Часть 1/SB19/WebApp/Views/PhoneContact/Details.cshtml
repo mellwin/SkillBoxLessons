@@ -1,0 +1,25 @@
+﻿@model PhoneContact
+@{
+    ViewBag.Title = "PhoneContactDetail";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>PhoneNumber</th>
+            <th>Address</th>
+            <th>Descriptions</th>
+        </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td>@Model.Id</td>
+                <td>@Model.Name</td>
+                <td>@Model.PhoneNumber</td>
+                <td>@Model.Address</td>
+                <td>@Model.Descriptions</td>
+            </tr>
+    </tbody>
+</table>

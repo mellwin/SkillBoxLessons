@@ -1,0 +1,56 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+        <ComboBox x:Name="cbCusFrom" HorizontalAlignment="Left" Height="22"               Margin="10,38,0,0" VerticalAlignment="Top" Width="104" SelectionChanged="CbCusFrom_SelectionChanged"/>
+        <Label x:Name="lblCusFrom" Content="Отправляющий" HorizontalAlignment="Left"      Margin="10,7,0,0" VerticalAlignment="Top"/>
+
+        <ComboBox x:Name="cbAccFrom" HorizontalAlignment="Left" Height="22"               Margin="130,38,0,0" VerticalAlignment="Top" Width="104" />
+        <Label x:Name="lblAccFrom" Content="Счет отправителя"  HorizontalAlignment="Left" Margin="130,7,0,0" VerticalAlignment="Top"/>
+
+        <ComboBox x:Name="cbCusTo" HorizontalAlignment="Left" Height="22"                Margin="417,38,0,0" VerticalAlignment="Top" Width="104" SelectionChanged="CbCusTo_SelectionChanged"/>
+        <Label x:Name="lblCusTo" Content="Получающий"  HorizontalAlignment="Left"         Margin="417,7,0,0" VerticalAlignment="Top"/>
+
+        <ComboBox x:Name="cbAccTo" HorizontalAlignment="Left" Height="22"                Margin="546,38,0,0" VerticalAlignment="Top" Width="104" />
+        <Label x:Name="lblAccTo" Content="Счет получающего" HorizontalAlignment="Left"    Margin="546,7,0,0" VerticalAlignment="Top"/>
+
+        <TextBox x:Name="tbSUM" HorizontalAlignment="Left" Text="{Binding ElementName=lvTransactions, Path=SelectedItem.TRNSum}" Margin="278,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="104"/>
+        <Label x:Name="lblSum" Content="Сумма" HorizontalAlignment="Left"    Margin="278,7,0,0" VerticalAlignment="Top"/>
+        <Button Content="Перевод" HorizontalAlignment="Left" Margin="278,72,0,0" VerticalAlignment="Top" Click="BtnTransfer_Click"/>
+
+        <ComboBox x:Name="cbChange" Text="Выбор объекта" HorizontalAlignment="Left" Height="22" Margin="10,68,0,0" VerticalAlignment="Top" Width="120" />
+        <Button x:Name="btnChange" Content="Создать" HorizontalAlignment="Left" Margin="139,68,0,0" VerticalAlignment="Top" Click="BtnChange_Click"/>
+
+        <Grid x:Name="gridWorkers" Margin="10,95,10,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <ListView x:Name="lvWorkers" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Row="1">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Счет отправителя" Width="175" DisplayMemberBinding="{Binding AccountIdFrom}"/>
+                        <GridViewColumn Header="Сумма" Width="100" DisplayMemberBinding="{Binding Sum}"/>
+                        <GridViewColumn Header="Счет получателя" Width="175" DisplayMemberBinding="{Binding AccountIdTo}"/>
+                        <GridViewColumn Header="Время операции" Width="100" DisplayMemberBinding="{Binding DateTimeTransaction}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Grid>
+
+        <Grid>
+            <TextBlock x:Name="tbNotification" HorizontalAlignment="Right"  VerticalAlignment="Bottom" Margin="10" FontSize="14" Foreground="Red" Visibility="Collapsed" Background="LightYellow" Padding="10" Text="Уведомление!">
+                <TextBlock.RenderTransform>
+                    <TranslateTransform x:Name="notificationTransform" />
+                </TextBlock.RenderTransform>
+            </TextBlock>
+        </Grid>
+    </Grid>
+</Window>

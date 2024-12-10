@@ -1,0 +1,43 @@
+﻿<Window x:Class="WPFApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="0,0,-16,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="49*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <ComboBox x:Name="cbEmployee" HorizontalAlignment="Left" Height="22" Margin="638,10,0,0" VerticalAlignment="Top" Width="104" SelectionChanged="cbEmployee_SelectionChanged"/>
+
+        <ListView x:Name="lvWorkers" HorizontalAlignment="Left" Height="398" Margin="10,10,0,0" VerticalAlignment="Top" Width="616">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Имя" Width="75" DisplayMemberBinding="{Binding Name}"/>
+                    <GridViewColumn Header="Отчество" Width="100" DisplayMemberBinding="{Binding Surname}"/>
+                    <GridViewColumn Header="Фамилия" Width="100" DisplayMemberBinding="{Binding SecondName}"/>
+                    <GridViewColumn Header="Номер телефона" Width="100" DisplayMemberBinding="{Binding MobilePhone}"/>
+                    <GridViewColumn Header="Паспорт" Width="100" DisplayMemberBinding="{Binding Passport}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <TextBox x:Name="tbPhone" HorizontalAlignment="Left" Text="{Binding ElementName=lvWorkers, Path=SelectedItem.MobilePhone}" Margin="638,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="104"/>
+        <TextBox x:Name="tbName" HorizontalAlignment="Left" Text="{Binding ElementName=lvWorkers, Path=SelectedItem.Name}" Margin="638,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="104"/>
+        <TextBox x:Name="tbSurname" HorizontalAlignment="Left" Text="{Binding ElementName=lvWorkers, Path=SelectedItem.Surname}" Margin="638,115,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="104"/>
+        <TextBox x:Name="tbSecondName" HorizontalAlignment="Left" Text="{Binding ElementName=lvWorkers, Path=SelectedItem.SecondName}" Margin="638,150,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="104"/>
+        <TextBox x:Name="tbPassport" HorizontalAlignment="Left" Text="{Binding ElementName=lvWorkers, Path=SelectedItem.Passport}" Margin="638,185,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="104"/>
+        <Label x:Name="lblPhone" HorizontalAlignment="Left" Margin="633,30,0,0" VerticalAlignment="Top" Height="20" Width="84" Content="Номер телефона" FontSize="8" FontFamily="Arial"/>
+        <Label x:Name="lblName" HorizontalAlignment="Left" Margin="633,66,0,0" VerticalAlignment="Top" Height="20" Width="84" Content="Имя" FontSize="8" FontFamily="Arial"/>
+        <Label x:Name="lblSurname" HorizontalAlignment="Left" Margin="633,101,0,0" VerticalAlignment="Top" Height="20" Width="84" Content="Отчество" FontSize="8" FontFamily="Arial"/>
+        <Label x:Name="lblSecondName" HorizontalAlignment="Left" Margin="633,136,0,0" VerticalAlignment="Top" Height="20" Width="84" Content="Фамилия" FontSize="8" FontFamily="Arial"/>
+        <Label x:Name="lblPassport" HorizontalAlignment="Left" Margin="633,171,0,0" VerticalAlignment="Top" Height="20" Width="84" Content="Пасспорт" FontSize="8" FontFamily="Arial"/>
+        <Button x:Name="btnRemove" Content="Удалить" HorizontalAlignment="Left" Margin="638,388,0,0" VerticalAlignment="Top" Width="58" Click="btnRemove_Click"/>
+        <Button x:Name="btnChange" Content="Изменить" HorizontalAlignment="Left" Margin="638,363,0,0" VerticalAlignment="Top" Click="btnChange_Click"/>
+        <Button x:Name="btnAdd" Content="Добавить" HorizontalAlignment="Left" Margin="638,338,0,0" VerticalAlignment="Top" Width="58" Click="btnAdd_Click"/>
+        <ComboBox x:Name="cbSort" HorizontalAlignment="Left" Margin="638,227,0,0" VerticalAlignment="Top" Width="104" SelectionChanged="cbSort_SelectionChanged"/>
+        
+    </Grid>
+</Window>

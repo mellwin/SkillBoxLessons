@@ -1,0 +1,24 @@
+﻿@model List<WebApp.Models.PhoneContact>
+@{
+    ViewBag.Title = "PhoneContacts";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <a asp-action="Details" asp-route-input="@item.Id">@item.Id</a>
+                </td>
+                <td>@item.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>

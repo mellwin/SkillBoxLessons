@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp", "WpfApp\WpfApp.csproj", "{996DF240-263C-437A-B05F-A21EC3CD3DE1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presenter", "Presenter", "{0CD772B2-054C-4939-9E27-9EA599237E80}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{C226C0EE-3ECE-4BD9-8367-DB79DECA426D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "View", "View", "{28ACDAA5-CA8C-40F1-B81E-6339545634DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelAnimals", "Model\ModelAnimals\ModelAnimals.csproj", "{9698B780-4309-40A3-AE12-7AC46D6FC705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresenterAnimals", "Presenter\PresenterAnimals\PresenterAnimals.csproj", "{3B18CFCE-0379-4DDE-97C2-D4B8A854D7A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewAnimals", "View\ViewAnimals\ViewAnimals.csproj", "{F01C2B20-DF7D-4773-8500-8BA7A9ACDC0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{996DF240-263C-437A-B05F-A21EC3CD3DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{996DF240-263C-437A-B05F-A21EC3CD3DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{996DF240-263C-437A-B05F-A21EC3CD3DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{996DF240-263C-437A-B05F-A21EC3CD3DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9698B780-4309-40A3-AE12-7AC46D6FC705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9698B780-4309-40A3-AE12-7AC46D6FC705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9698B780-4309-40A3-AE12-7AC46D6FC705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9698B780-4309-40A3-AE12-7AC46D6FC705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B18CFCE-0379-4DDE-97C2-D4B8A854D7A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B18CFCE-0379-4DDE-97C2-D4B8A854D7A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B18CFCE-0379-4DDE-97C2-D4B8A854D7A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B18CFCE-0379-4DDE-97C2-D4B8A854D7A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F01C2B20-DF7D-4773-8500-8BA7A9ACDC0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01C2B20-DF7D-4773-8500-8BA7A9ACDC0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01C2B20-DF7D-4773-8500-8BA7A9ACDC0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01C2B20-DF7D-4773-8500-8BA7A9ACDC0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9698B780-4309-40A3-AE12-7AC46D6FC705} = {C226C0EE-3ECE-4BD9-8367-DB79DECA426D}
+		{3B18CFCE-0379-4DDE-97C2-D4B8A854D7A0} = {0CD772B2-054C-4939-9E27-9EA599237E80}
+		{F01C2B20-DF7D-4773-8500-8BA7A9ACDC0C} = {28ACDAA5-CA8C-40F1-B81E-6339545634DA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ABA3DB8-F9EE-454B-8E61-48C78FF758F3}
+	EndGlobalSection
+EndGlobal

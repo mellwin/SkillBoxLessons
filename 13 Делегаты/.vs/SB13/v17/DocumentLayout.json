@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB13.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\sb13\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB13.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB13.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\sb13\\repositories\\transactionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB13.csproj|solutionrelative:repositories\\transactionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB13.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\sb13\\repositories\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB13.csproj|solutionrelative:repositories\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB13.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\sb13\\repositories\\custumerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB13.csproj|solutionrelative:repositories\\custumerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB13.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\sb13\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB13.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB13.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\sb13\\models\\custumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB13.csproj|solutionrelative:models\\custumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB13.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\sb13\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F523F0C1-69B1-4050-9E78-85808D832517}|SB13.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CF0ACB-AB2D-4744-B1F7-E575D380B831}|..\\Repositories\\RepositoriesLib.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\repositories\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CF0ACB-AB2D-4744-B1F7-E575D380B831}|..\\Repositories\\Repositories.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CF0ACB-AB2D-4744-B1F7-E575D380B831}|..\\Repositories\\Repositories.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97475888-9C23-4AFD-9F76-ABF8802CF2AF}|..\\TryException\\TryException.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\tryexception\\try.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97475888-9C23-4AFD-9F76-ABF8802CF2AF}|..\\TryException\\TryException.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\tryexception\\logging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97475888-9C23-4AFD-9F76-ABF8802CF2AF}|..\\TryException\\TryException.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\tryexception\\recordnotselecteduseex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97475888-9C23-4AFD-9F76-ABF8802CF2AF}|..\\TryException\\TryException.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\tryexception\\iuseex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionRepo.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB13\\Repositories\\TransactionRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\TransactionRepo.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB13\\Repositories\\TransactionRepo.cs",
+              "RelativeToolTip": "Repositories\\TransactionRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:43:36.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustumerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB13\\Repositories\\CustumerRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\CustumerRepo.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB13\\Repositories\\CustumerRepo.cs*",
+              "RelativeToolTip": "Repositories\\CustumerRepo.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:43:32.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB13\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB13\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:43:20.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Custumer.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB13\\Models\\Custumer.cs",
+              "RelativeDocumentMoniker": "Models\\Custumer.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB13\\Models\\Custumer.cs",
+              "RelativeToolTip": "Models\\Custumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:43:16.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB13\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB13\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:43:10.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountRepo.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\Repositories\\AccountRepo.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\AccountRepo.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\Repositories\\AccountRepo.cs",
+              "RelativeToolTip": "..\\Repositories\\AccountRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:41:47.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountRepo.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB13\\Repositories\\AccountRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountRepo.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB13\\Repositories\\AccountRepo.cs*",
+              "RelativeToolTip": "Repositories\\AccountRepo.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:39:13.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:37:11.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\Repositories\\Repository.cs",
+              "RelativeToolTip": "..\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:34:21.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB13\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB13\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "MainWindow.xaml.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:45:47.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Logging.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\TryException\\Logging.cs",
+              "RelativeDocumentMoniker": "..\\TryException\\Logging.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\TryException\\Logging.cs",
+              "RelativeToolTip": "..\\TryException\\Logging.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:44:28.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RecordNotSelectedUseEx.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\TryException\\RecordNotSelectedUseEx.cs",
+              "RelativeDocumentMoniker": "..\\TryException\\RecordNotSelectedUseEx.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\TryException\\RecordNotSelectedUseEx.cs",
+              "RelativeToolTip": "..\\TryException\\RecordNotSelectedUseEx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:43:43.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUseEx.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\TryException\\IUseEx.cs",
+              "RelativeDocumentMoniker": "..\\TryException\\IUseEx.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\TryException\\IUseEx.cs",
+              "RelativeToolTip": "..\\TryException\\IUseEx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:42:58.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Try.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\TryException\\Try.cs",
+              "RelativeDocumentMoniker": "..\\TryException\\Try.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\TryException\\Try.cs",
+              "RelativeToolTip": "..\\TryException\\Try.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:42:15.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

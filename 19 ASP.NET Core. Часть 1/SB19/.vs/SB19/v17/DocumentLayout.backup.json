@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB19\\SB19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{857F1D66-B5BC-4354-BAFF-4FAB32E20143}|WebApp\\WebApp.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\sb19\\sb19\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{857F1D66-B5BC-4354-BAFF-4FAB32E20143}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857F1D66-B5BC-4354-BAFF-4FAB32E20143}|WebApp\\WebApp.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\sb19\\sb19\\webapp\\controllers\\phonecontactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857F1D66-B5BC-4354-BAFF-4FAB32E20143}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\phonecontactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857F1D66-B5BC-4354-BAFF-4FAB32E20143}|WebApp\\WebApp.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\sb19\\sb19\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857F1D66-B5BC-4354-BAFF-4FAB32E20143}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857F1D66-B5BC-4354-BAFF-4FAB32E20143}|WebApp\\WebApp.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\sb19\\sb19\\webapp\\models\\phonecontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857F1D66-B5BC-4354-BAFF-4FAB32E20143}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\phonecontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857F1D66-B5BC-4354-BAFF-4FAB32E20143}|WebApp\\WebApp.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\sb19\\sb19\\webapp\\extansions\\appextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857F1D66-B5BC-4354-BAFF-4FAB32E20143}|WebApp\\WebApp.csproj|solutionrelative:webapp\\extansions\\appextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857F1D66-B5BC-4354-BAFF-4FAB32E20143}|WebApp\\WebApp.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\sb19\\sb19\\webapp\\models\\phonecontactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857F1D66-B5BC-4354-BAFF-4FAB32E20143}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\phonecontactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857F1D66-B5BC-4354-BAFF-4FAB32E20143}|WebApp\\WebApp.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\sb19\\sb19\\webapp\\views\\phonecontact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{857F1D66-B5BC-4354-BAFF-4FAB32E20143}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\phonecontact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB19\\SB19\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB19\\SB19\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T20:34:00.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhoneContact.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB19\\SB19\\WebApp\\Models\\PhoneContact.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\PhoneContact.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB19\\SB19\\WebApp\\Models\\PhoneContact.cs",
+              "RelativeToolTip": "WebApp\\Models\\PhoneContact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T20:33:10.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppExtension.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB19\\SB19\\WebApp\\Extansions\\AppExtension.cs",
+              "RelativeDocumentMoniker": "WebApp\\Extansions\\AppExtension.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB19\\SB19\\WebApp\\Extansions\\AppExtension.cs",
+              "RelativeToolTip": "WebApp\\Extansions\\AppExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T15:19:47.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhoneContactContext.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB19\\SB19\\WebApp\\Models\\PhoneContactContext.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\PhoneContactContext.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB19\\SB19\\WebApp\\Models\\PhoneContactContext.cs",
+              "RelativeToolTip": "WebApp\\Models\\PhoneContactContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T15:16:37.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB19\\SB19\\WebApp\\Views\\PhoneContact\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\PhoneContact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB19\\SB19\\WebApp\\Views\\PhoneContact\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\PhoneContact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T15:12:53.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhoneContactController.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB19\\SB19\\WebApp\\Controllers\\PhoneContactController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\PhoneContactController.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB19\\SB19\\WebApp\\Controllers\\PhoneContactController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\PhoneContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:17:26.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB19\\SB19\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB19\\SB19\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:12:26.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

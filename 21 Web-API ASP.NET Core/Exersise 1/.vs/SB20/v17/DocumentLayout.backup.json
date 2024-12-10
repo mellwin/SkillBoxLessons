@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB21\\SB20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F850CC01-ACA3-4ADD-9A0F-220B444B3F31}|PhoneBook\\PhoneBook.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\sb21\\sb20\\phonebook\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F850CC01-ACA3-4ADD-9A0F-220B444B3F31}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F850CC01-ACA3-4ADD-9A0F-220B444B3F31}|PhoneBook\\PhoneBook.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\sb21\\sb20\\phonebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F850CC01-ACA3-4ADD-9A0F-220B444B3F31}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F850CC01-ACA3-4ADD-9A0F-220B444B3F31}|PhoneBook\\PhoneBook.csproj|c:\\users\\oapar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\newskillbox\\sb21\\sb20\\phonebook\\extansions\\appextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F850CC01-ACA3-4ADD-9A0F-220B444B3F31}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\extansions\\appextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 167,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB21\\SB20\\PhoneBook\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB21\\SB20\\PhoneBook\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PhoneBook\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:05:58.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppExtension.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB21\\SB20\\PhoneBook\\Extansions\\AppExtension.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Extansions\\AppExtension.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB21\\SB20\\PhoneBook\\Extansions\\AppExtension.cs",
+              "RelativeToolTip": "PhoneBook\\Extansions\\AppExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:00:04.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB21\\SB20\\PhoneBook\\Program.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Program.cs",
+              "ToolTip": "C:\\Users\\oapar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NewSkillBox\\SB21\\SB20\\PhoneBook\\Program.cs",
+              "RelativeToolTip": "PhoneBook\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:59:45.962Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
